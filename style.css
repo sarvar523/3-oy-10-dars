@@ -1,0 +1,45 @@
+header{
+    display: flex;
+
+    align-items: center;
+    justify-content: space-around;
+    background-color: black;
+}
+header div{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+
+}
+header h2{ color: white;}
+div h1{
+    color: white;
+}
+body{
+    background-color: black;
+}
+.textt{ color: white;
+align-items: center;
+justify-content: center;
+width: 293px;
+margin-left: 290px;
+background-color: #232028;
+height: 190px; border-radius: 20px; 
+padding-top: 30px;  
+}
+.card img{ position: relative;
+
+}
+.card{ 
+   width: 325px;
+   height: 532px;
+   text-align: center;
+}
+.card img{
+    position: relative;
+
+top: 40px;}
+.cards{
+    display: flex;
+    justify-content: space-around;
+}
